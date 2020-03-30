@@ -2,7 +2,7 @@ body
 {
     background-color:black;
     color: #333;
-    text-align: center;
+    text-align: justify;
     font-family: Arial;
     font-size: 16px;
     margin: 0;
@@ -36,7 +36,6 @@ body
 {
   width: 95%;
   padding: 1em;
-  text-align: center;
   border: 1px solid #DDD;
   margin: 0 auto;
 }
@@ -45,12 +44,16 @@ body
 {
   font-size: 20px;
   color: purple;
+    text-align: center;
 }
+
 #post
 {
     background: white;
     padding: 1em;
+    text-align: center;
 }
+
 #footer
 {
   background: #37488b;
