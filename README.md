@@ -1,4 +1,5 @@
 # Personal Projects &clubs;
+
 I am A.F Bermúdez, a physics student at the National University of Colombia. I upload my personal projects so that they can be seen by whoever is interested. 
 
 The objective is to show all the projects I have worked on and which have contributed to my academic training.
@@ -7,12 +8,15 @@ The platforms that have contributed to my training are Platzi, EDX and Coursera.
 
 ------------
 
-
 “For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.”
 
 ― Richard P. Feynman
 
-#Progammig languages of my interest &clubs;
+------------
+
+
+
+# Progammig languages of my interest &clubs;
 
 - Python &diams;
 
