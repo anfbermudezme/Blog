@@ -18,15 +18,15 @@ The platforms that have contributed to my training are Platzi, EDX and Coursera.
 
 # Progammig languages of my interest &clubs;
 
-- Python &spades;
+- Python 
 
 For data analysis and processing, which is useful for my career and my working environment.
 
-- JavaScript &spades;
+- JavaScript
 
 For creative projects using cool frameworks like react native.
 
-- LaTeX &spades;
+- LaTeX
 
 For the scientific articles, notes and other tools that I need for my career as a scientist.
 # My Social Networks &clubs;
