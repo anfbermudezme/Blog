@@ -1,4 +1,4 @@
-# Personal Projects :tw-1f314:
+# Personal Projects &clubs;
 I am A.F Bermúdez, a physics student at the National University of Colombia. I upload my personal projects so that they can be seen by whoever is interested. 
 
 The objective is to show all the projects I have worked on and which have contributed to my academic training.
@@ -12,20 +12,20 @@ The platforms that have contributed to my training are Platzi, EDX and Coursera.
 
 ― Richard P. Feynman
 
-#Progammig languages of my interest :tw-1f314:
+#Progammig languages of my interest &clubs;
 
-- Python :tw-1f4c8:
+- Python &diams;
 
 For data analysis and processing, which is useful for my career and my working environment.
 
-- JavaScript :tw-1f4f1:
+- JavaScript &diams;
 
 For creative projects using cool frameworks like react native.
 
-- LaTeX :tw-1f4cb:
+- LaTeX &diams;
 
 For the scientific articles, notes and other tools that I need for my career as a scientist.
-# My Social Networks :tw-1f4de:
+# My Social Networks &clubs;
 - Twitter: https://twitter.com/ifelipe317
 - Facebook: https://www.facebook.com/iFelipe1627/
 
